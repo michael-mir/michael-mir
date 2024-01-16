@@ -1,8 +1,8 @@
 # Hello there 👋
 
-## About me:
+## 📜 About me:
 - 👨🏻‍💻 I’m currently working at **[CFT](https://www.cft.ru/)**
-- 💬 You can contact me via **[Telegram](https://t.me/siberiacancode)**
+- 💬 You can contact me via **[Telegram](https://t.me/m1ronychev)**
 
 ## 🛠 &nbsp;Tech Stack
 ### General
